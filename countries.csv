@@ -1,4 +1,4 @@
-ï»¿Code,ISO3,Name,Local_long_name,Selectable,NCA_code,NCA_name,Character
+﻿Code,ISO3,Name,Local_long_name,Selectable,NCA_code,NCA_name,Character
 AE,,United Arab Emirates,,,,,
 AR,,Argentina,,,,,
 AT,,Austria,Republik Oesterreich,,,,Baroness Bertha Sophie Felicitas von Suttner
@@ -16,14 +16,14 @@ DE,GER,Germany,,TRUE,,,
 DK,,Denmark,,,,,
 ES,,Spain,Reino de Espana,,,,Pilar Primo de Rivera
 EU,,European Union,European Union,,ESMA,European Securities and Markets Authority,Edith Stein [Saint Teresa of the Cross]
-FR,FRA,France,RÃ©publique franÃ§aise,TRUE,,,Marie FranÃ§oise-ThÃ©rÃ¨se Martin [Saint ThÃ©rÃ¨se of Lisieux]
+FR,FRA,France,République française,TRUE,,,Marie Françoise-Thérèse Martin [Saint Thérèse of Lisieux]
 GB,,United Kingdom,,,,,"Augusta Ada King, Countess of Lovelace"
 GR,,Greece,,,,,Maria Anna Cecilia Sophia Kalogeropoulos [Maria Callas]
 HK,,Hong Kong,,,,,
 IC,,Canary Islands,,,,,
 ID,,Indonesia,,,,,
 IN,,India,,,,,Indira Priyadarshini Nehru-Gandhi
-IT,ITA,Italy,Repubblica Italiana,TRUE,CONSOB,Commissione Nazionale per le SocietÃ  e la Borsa,Oriana Fallaci
+IT,ITA,Italy,Repubblica Italiana,TRUE,CONSOB,Commissione Nazionale per le Società e la Borsa,Oriana Fallaci
 JE,,Jersey,,,,,
 JP,,Japan,Nippon-koku,,,,Yoshiko Kawashima
 KR,,South Korea,,,,,
@@ -31,8 +31,8 @@ KY,,Cayman Islands,,,,,
 LU,,Luxembourg,,,,,
 MT,,Malta,,,,,
 NL,,Netherlands,Koninkrijk der Nederlanden,,,,Margaretha Geertruida Zelle [Mata Hari]
-NO,,Norway,,,,,Anne-Sofie Ã˜stvedt
-PL,,Poland,Rzeczpospolita Polska,,,,Maria Salomea SkÅ‚odowska-Curie
+NO,,Norway,,,,,Anne-Sofie Østvedt
+PL,,Poland,Rzeczpospolita Polska,,,,Maria Salomea Skłodowska-Curie
 PT,,Portugal,,,,,
 RO,,Romania,,,,,Anna Aslanyan
 SE,,Sweden,,,,,Kerstin Anita Marianne Ekberg
