@@ -1,0 +1,96 @@
+Sector,Industry,Count
+Basic Materials,Agricultural Inputs,1
+Basic Materials,Building Materials,1
+Basic Materials,Chemicals,2
+Basic Materials,Other Industrial Metals & Mining,1
+Basic Materials,Specialty Chemicals,9
+Basic Materials,Steel,3
+Communication Services,Advertising Agencies,4
+Communication Services,Broadcasting,4
+Communication Services,Electronic Gaming & Multimedia,3
+Communication Services,Entertainment,9
+Communication Services,Internet Content & Information,1
+Communication Services,Telecom Services,4
+Consumer Cyclical,Apparel Manufacturing,3
+Consumer Cyclical,Apparel Retail,1
+Consumer Cyclical,Auto Manufacturers,7
+Consumer Cyclical,Auto Parts,9
+Consumer Cyclical,Footwear & Accessories,4
+Consumer Cyclical,"Furnishings, Fixtures & Appliances",3
+Consumer Cyclical,Gambling,1
+Consumer Cyclical,Home Improvement Retail,1
+Consumer Cyclical,Internet Retail,2
+Consumer Cyclical,Leisure,2
+Consumer Cyclical,Lodging,1
+Consumer Cyclical,Luxury Goods,3
+Consumer Cyclical,Recreational Vehicles,3
+Consumer Cyclical,Restaurants,2
+Consumer Cyclical,Specialty Retail,2
+Consumer Cyclical,Textile Manufacturing,1
+Consumer Cyclical,Travel Services,1
+Consumer Defensive,Beverages—Wineries & Distilleries,3
+Consumer Defensive,Food Distribution,1
+Consumer Defensive,Grocery Stores,1
+Consumer Defensive,Household & Personal Products,2
+Energy,Oil & Gas E&P,1
+Energy,Oil & Gas Equipment & Services,4
+Energy,Oil & Gas Integrated,1
+Energy,Oil & Gas Refining & Marketing,1
+Financial Services,Asset Management,6
+Financial Services,Banks—Regional,12
+Financial Services,Capital Markets,1
+Financial Services,Credit Services,4
+Financial Services,Financial Data & Stock Exchanges,1
+Financial Services,Insurance—Diversified,1
+Financial Services,Insurance—Reinsurance,2
+Healthcare,Biotechnology,9
+Healthcare,Diagnostics & Research,2
+Healthcare,Drug Manufacturers—General,1
+Healthcare,Drug Manufacturers—Specialty & Generic,3
+Healthcare,Health Information Services,1
+Healthcare,Medical Care Facilities,5
+Healthcare,Medical Devices,3
+Healthcare,Medical Distribution,2
+Healthcare,Medical Instruments & Supplies,7
+Industrials,Aerospace & Defense,6
+Industrials,Airlines,3
+Industrials,Airports & Air Services,1
+Industrials,Building Products & Equipment,2
+Industrials,Business Equipment & Supplies,1
+Industrials,Conglomerates,5
+Industrials,Consulting Services,2
+Industrials,Electrical Equipment & Parts,5
+Industrials,Engineering & Construction,10
+Industrials,Farm & Heavy Construction Machinery,3
+Industrials,Integrated Freight & Logistics,1
+Industrials,Marine Shipping,1
+Industrials,Metal Fabrication,2
+Industrials,Pollution & Treatment Controls,1
+Industrials,Railroads,2
+Industrials,Rental & Leasing Services,1
+Industrials,Specialty Business Services,4
+Industrials,Specialty Industrial Machinery,13
+Industrials,Staffing & Employment Services,1
+Industrials,Waste Management,1
+Real Estate,REIT—Diversified,3
+Real Estate,REIT—Office,1
+Real Estate,REIT—Retail,3
+Real Estate,Real Estate Services,3
+Real Estate,Real Estate—Development,1
+Real Estate,Real Estate—Diversified,2
+Technology,Communication Equipment,2
+Technology,Computer Hardware,3
+Technology,Consumer Electronics,1
+Technology,Electronic Components,2
+Technology,Electronics & Computer Distribution,3
+Technology,Information Technology Services,11
+Technology,Scientific & Technical Instruments,1
+Technology,Semiconductor Equipment & Materials,3
+Technology,Semiconductors,5
+Technology,Software—Application,4
+Technology,Software—Infrastructure,3
+Technology,Solar,1
+Utilities,Utilities—Diversified,4
+Utilities,Utilities—Regulated Electric,1
+Utilities,Utilities—Regulated Gas,2
+Utilities,Utilities—Renewable,5
