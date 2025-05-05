@@ -1,4 +1,11 @@
 ,<05,<1,<2,<5,>=5,Market_capitalization,US,Total
+2025-05-05,True,False,False,False,False,153120000.0,0.0,0.0
+2025-05-04,True,False,False,False,False,153120000.0,0.0,0.0
+2025-05-03,True,False,False,False,False,153120000.0,0.0,0.0
+2025-05-02,True,False,False,False,False,153120000.0,0.0,0.0
+2025-05-01,True,False,False,False,False,153120000.0,0.0,0.0
+2025-04-30,True,False,False,False,False,153120000.0,0.0,0.0
+2025-04-29,True,False,False,False,False,153120000.0,0.0,0.0
 2025-04-28,True,False,False,False,False,153120000.0,0.0,0.0
 2025-04-27,True,False,False,False,False,153120000.0,0.0,0.0
 2025-04-26,True,False,False,False,False,153120000.0,0.0,0.0
@@ -722,10 +729,3 @@
 2023-05-09,False,True,False,False,False,153120000.0,0.5,0.5
 2023-05-08,False,True,False,False,False,153120000.0,0.5,0.5
 2023-05-07,False,True,False,False,False,153120000.0,0.5,0.5
-2023-05-06,False,True,False,False,False,153120000.0,0.5,0.5
-2023-05-05,False,True,False,False,False,153120000.0,0.5,0.5
-2023-05-04,False,True,False,False,False,153120000.0,0.5,0.5
-2023-05-03,False,True,False,False,False,153120000.0,0.5,0.5
-2023-05-02,False,True,False,False,False,153120000.0,0.5,0.5
-2023-05-01,False,True,False,False,False,153120000.0,0.5,0.5
-2023-04-30,False,True,False,False,False,153120000.0,0.5,0.5
