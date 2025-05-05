@@ -1,43 +1,44 @@
 ﻿Code,ISO3,Name,Local_long_name,Selectable,NCA_code,NCA_name,Character
-AE,,United Arab Emirates,,,,,
-AR,,Argentina,,,,,
-AT,,Austria,Republik Oesterreich,,,,Baroness Bertha Sophie Felicitas von Suttner
-AU,,Australia,,,,,
-BE,,Belgium,,,,,
-BG,,Bulgaria,,,,,
-BM,,Bermuda,,,,,
-BR,,Brazil,,,,,
-CA,,Canada,,,,,
-CH,,Switzerland,,,,,
+AE,ARE,United Arab Emirates,,,,,
+AR,ARG,Argentina,,,,,
+AT,AUT,Austria,Republik Oesterreich,,,,Baroness Bertha Sophie Felicitas von Suttner
+AU,AUS,Australia,,,,,
+BE,BEL,Belgium,,,,,
+BG,BGR,Bulgaria,,,,,
+BM,BMU,Bermuda,,,,,
+BR,BRA,Brazil,,,,,
+CA,CAN,Canada,,,,,
+CH,CHE,Switzerland,,,,,
 CN,PRC,China,Zhonghua Renmin Gongheguo,,,,Yehe Nara Xingzhen [Empress Dowager Cixi]
-CY,,Cyprus,,,,,
-CZ,,Czech Republic,,,,,
+CY,CYP,Cyprus,,,,,
+CZ,CZE,Czechia,Ceska republika,,,,
 DE,GER,Germany,Bundesrepublik Deutschland,TRUE,BaFin,Bundesanstalt für Finanzdienstleistungsaufsicht,
-DK,,Denmark,,,,,
-ES,,Spain,Reino de Espana,,,,Pilar Primo de Rivera
+DK,DNK,Denmark,,,,,
+ES,ESP,Spain,Reino de Espana,,,,Pilar Primo de Rivera
 EU,,European Union,European Union,,ESMA,European Securities and Markets Authority,Edith Stein [Saint Teresa of the Cross]
 FR,FRA,France,République française,TRUE,AMF,Autorité des Marchés Financiers,Marie Françoise-Thérèse Martin [Saint Thérèse of Lisieux]
-GB,,United Kingdom,,,,,"Augusta Ada King, Countess of Lovelace"
-GR,,Greece,,,,,Maria Anna Cecilia Sophia Kalogeropoulos [Maria Callas]
-HK,,Hong Kong,,,,,
+GB,GBR,United Kingdom,,,,,"Augusta Ada King, Countess of Lovelace"
+GR,GRC,Greece,,,,,Maria Anna Cecilia Sophia Kalogeropoulos [Maria Callas]
+HK,HKG,Hong Kong,,,,,
 IC,,Canary Islands,,,,,
-ID,,Indonesia,,,,,
-IN,,India,,,,,Indira Priyadarshini Nehru-Gandhi
+ID,IDN,Indonesia,,,,,
+IN,IND,India,,,,,Indira Priyadarshini Nehru-Gandhi
 IT,ITA,Italy,Repubblica Italiana,TRUE,CONSOB,Commissione Nazionale per le Società e la Borsa,Oriana Fallaci
-JE,,Jersey,,,,,
-JP,,Japan,Nippon-koku,,,,Yoshiko Kawashima
-KR,,South Korea,,,,,
-KY,,Cayman Islands,,,,,
-LU,,Luxembourg,,,,,
-MT,,Malta,,,,,
-NL,,Netherlands,Koninkrijk der Nederlanden,,,,Margaretha Geertruida Zelle [Mata Hari]
-NO,,Norway,,,,,Anne-Sofie Østvedt
-PL,,Poland,Rzeczpospolita Polska,,,,Maria Salomea Skłodowska-Curie
-PT,,Portugal,,,,,
-RO,,Romania,,,,,Anna Aslanyan
-SE,,Sweden,,,,,Kerstin Anita Marianne Ekberg
-SG,,Singapore,,,,,
-TH,,Thailand,,,,,
-TW,,Taiwan,,,,,
-US,,United States,,,,,
-ZA,,South Africa,,,,,
+JE,JEY,Jersey,,,,,
+JP,JPN,Japan,Nippon-koku,,,,Yoshiko Kawashima
+KR,KOR,South Korea,,,,,
+KY,CYM,Cayman Islands,,,,,
+LU,LUX,Luxembourg,,,,,
+MT,MLT,Malta,,,,,
+NL,NLD,Netherlands,Koninkrijk der Nederlanden,,,,Margaretha Geertruida Zelle [Mata Hari]
+NO,NOR,Norway,,,,,Anne-Sofie Østvedt
+PL,POL,Poland,Rzeczpospolita Polska,,,,Maria Salomea Skłodowska-Curie
+PT,PRT,Portugal,,,,,
+RO,ROU,Romania,,,,,Anna Aslanyan
+SE,SWE,Sweden,,,,,Kerstin Anita Marianne Ekberg
+SG,SGP,Singapore,,,,,
+TH,THA,Thailand,,,,,
+TU,TUR,Turkiye,Turkey Cumhuriyeti,,,,
+TW,TWN,Taiwan,,,,,
+US,USA,United States,,,,,
+ZA,ZAF,South Africa,,,,,
