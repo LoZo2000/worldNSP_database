@@ -1,45 +1,45 @@
-﻿Code,ISO3,Name,Local_long_name,Selectable,NCA_code,NCA_name,Character
-AR,ARG,Argentina,,,,,
-AU,AUS,Australia,,,,,
-AT,AUT,Austria,Republik Oesterreich,,,,Baroness Bertha Sophie Felicitas von Suttner
-BE,BEL,Belgium,,,,,
-BM,BMU,Bermuda,,,,,
-BR,BRA,Brazil,,,,,
-BG,BGR,Bulgaria,,,,,
-CA,CAN,Canada,,,,,
-IC,,Canary Islands,,,,,
-KY,CYM,Cayman Islands,,,,,
-CN,CHN,China,Zhonghua Renmin Gongheguo,,,,Yehe Nara Xingzhen [Empress Dowager Cixi]
-CY,CYP,Cyprus,,,,,
-CZ,CZE,Czechia,Ceska republika,,,,
-DK,DNK,Denmark,,,,,
-EU,,European Union,European Union,,ESMA,European Securities and Markets Authority,Edith Stein [Saint Teresa of the Cross]
-FR,FRA,France,République française,TRUE,AMF,Autorité des Marchés Financiers,Marie Françoise-Thérèse Martin [Saint Thérèse of Lisieux]
-DE,DEU,Germany,Bundesrepublik Deutschland,TRUE,BaFin,Bundesanstalt für Finanzdienstleistungsaufsicht,
-GR,GRC,Greece,,,,,Maria Anna Cecilia Sophia Kalogeropoulos [Maria Callas]
-HK,HKG,Hong Kong,,,,,
-IN,IND,India,,,,,Indira Priyadarshini Nehru-Gandhi
-ID,IDN,Indonesia,,,,,
-IE,IRL,Ireland,,,,,
-IT,ITA,Italy,Repubblica Italiana,TRUE,CONSOB,Commissione Nazionale per le Società e la Borsa,Oriana Fallaci
-JP,JPN,Japan,Nippon-koku,,,,Yoshiko Kawashima
-JE,JEY,Jersey,,,,,
-LU,LUX,Luxembourg,,,,,
-MT,MLT,Malta,,,,,
-NL,NLD,Netherlands,Koninkrijk der Nederlanden,,,,Margaretha Geertruida Zelle [Mata Hari]
-NO,NOR,Norway,,,,,Anne-Sofie Østvedt
-PL,POL,Poland,Rzeczpospolita Polska,,,,Maria Salomea Skłodowska-Curie
-PT,PRT,Portugal,,,,,
-RO,ROU,Romania,,,,,Anna Aslanyan
-SG,SGP,Singapore,,,,,
-ZA,ZAF,South Africa,,,,,
-KR,KOR,South Korea,,,,,
-ES,ESP,Spain,Reino de Espana,,,,Pilar Primo de Rivera
-SE,SWE,Sweden,,,,,Kerstin Anita Marianne Ekberg
-CH,CHE,Switzerland,,,,,
-TW,TWN,Taiwan,,,,,
-TH,THA,Thailand,,,,,
-TU,TUR,Turkiye,Turkey Cumhuriyeti,,,,
-AE,ARE,United Arab Emirates,,,,,
-GB,GBR,United Kingdom,,,,,"Augusta Ada King, Countess of Lovelace"
-US,USA,United States,,,,,
+﻿Code,ISO3,Name,Local_long_name,Selectable,NCA_code,NCA_name,Lat,Lng,Character
+AR,ARG,Argentina,,,,,,,
+AU,AUS,Australia,,,,,,,
+AT,AUT,Austria,Republik Oesterreich,,,,,,Baroness Bertha Sophie Felicitas von Suttner
+BE,BEL,Belgium,,,,,,,
+BM,BMU,Bermuda,,,,,,,
+BR,BRA,Brazil,,,,,,,
+BG,BGR,Bulgaria,,,,,,,
+CA,CAN,Canada,,,,,,,
+IC,,Canary Islands,,,,,,,
+KY,CYM,Cayman Islands,,,,,,,
+CN,CHN,China,Zhonghua Renmin Gongheguo,,,,,,Yehe Nara Xingzhen [Empress Dowager Cixi]
+CY,CYP,Cyprus,,,,,,,
+CZ,CZE,Czechia,Ceska republika,,,,,,
+DK,DNK,Denmark,,,,,,,
+EU,,European Union,European Union,,ESMA,European Securities and Markets Authority,,,Edith Stein [Saint Teresa of the Cross]
+FR,FRA,France,République française,TRUE,AMF,Autorité des Marchés Financiers,46.56057987,2.801546684,Marie Françoise-Thérèse Martin [Saint Thérèse of Lisieux]
+DE,DEU,Germany,Bundesrepublik Deutschland,TRUE,BaFin,Bundesanstalt für Finanzdienstleistungsaufsicht,51.09819342,10.53592157,
+GR,GRC,Greece,,,,,,,Maria Anna Cecilia Sophia Kalogeropoulos [Maria Callas]
+HK,HKG,Hong Kong,,,,,,,
+IN,IND,India,,,,,,,Indira Priyadarshini Nehru-Gandhi
+ID,IDN,Indonesia,,,,,,,
+IE,IRL,Ireland,,,,,,,
+IT,ITA,Italy,Repubblica Italiana,TRUE,CONSOB,Commissione Nazionale per le Società e la Borsa,42.86263717,12.67014175,Oriana Fallaci
+JP,JPN,Japan,Nippon-koku,,,,,,Yoshiko Kawashima
+JE,JEY,Jersey,,,,,,,
+LU,LUX,Luxembourg,,,,,,,
+MT,MLT,Malta,,,,,,,
+NL,NLD,Netherlands,Koninkrijk der Nederlanden,,,,,,Margaretha Geertruida Zelle [Mata Hari]
+NO,NOR,Norway,,,,,,,Anne-Sofie Østvedt
+PL,POL,Poland,Rzeczpospolita Polska,,,,,,Maria Salomea Skłodowska-Curie
+PT,PRT,Portugal,,,,,,,
+RO,ROU,Romania,,,,,,,Anna Aslanyan
+SG,SGP,Singapore,,,,,,,
+ZA,ZAF,South Africa,,,,,,,
+KR,KOR,South Korea,,,,,,,
+ES,ESP,Spain,Reino de Espana,,,,,,Pilar Primo de Rivera
+SE,SWE,Sweden,,,,,,,Kerstin Anita Marianne Ekberg
+CH,CHE,Switzerland,,,,,,,
+TW,TWN,Taiwan,,,,,,,
+TH,THA,Thailand,,,,,,,
+TU,TUR,Turkiye,Turkey Cumhuriyeti,,,,,,
+AE,ARE,United Arab Emirates,,,,,,,
+GB,GBR,United Kingdom,,,,,,,"Augusta Ada King, Countess of Lovelace"
+US,USA,United States,,,,,,,
