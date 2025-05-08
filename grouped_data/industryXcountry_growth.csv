@@ -1,96 +1,95 @@
 Industry,DE,FR,IT
-Agricultural Inputs,-0.09,,
-Building Materials,0.08,,
-Chemicals,0.5,,
+Agricultural Inputs,-0.89,,
+Building Materials,0.09,,
+Chemicals,0.89,,
 Other Industrial Metals & Mining,,0.0,
-Specialty Chemicals,-0.08,0.49,
-Steel,-0.23,-0.2,
-Advertising Agencies,,-0.5,-0.23
-Broadcasting,-1.12,0.0,0.0
-Electronic Gaming & Multimedia,,0.04,0.0
-Entertainment,0.0,0.05,-0.01
-Internet Content & Information,-0.49,,
-Telecom Services,-0.14,,0.05
-Apparel Manufacturing,-2.03,,0.0
+Specialty Chemicals,0.09,0.0,
+Steel,-0.46,-0.2,
+Advertising Agencies,,-0.46,0.0
+Broadcasting,-1.25,0.0,0.0
+Electronic Gaming & Multimedia,,-0.0,0.0
+Entertainment,0.0,0.05,0.11
+Internet Content & Information,0.0,,
+Telecom Services,0.3,,0.05
+Apparel Manufacturing,-3.4,,0.47
 Apparel Retail,,0.0,
-Auto Manufacturers,0.0,-0.07,-0.5
-Auto Parts,0.1,0.47,0.03
-Footwear & Accessories,0.21,,0.0
+Auto Manufacturers,-0.0,0.0,0.0
+Auto Parts,0.1,0.18,0.02
+Footwear & Accessories,0.11,,0.0
 "Furnishings, Fixtures & Appliances",0.0,0.0,0.0
 Gambling,,0.0,
 Home Improvement Retail,,0.0,
-Internet Retail,-0.01,,
+Internet Retail,-0.07,,
 Leisure,,0.0,0.0
-Lodging,,0.1,
-Luxury Goods,,0.2,0.06
-Recreational Vehicles,-0.7,0.1,0.0
-Restaurants,0.05,0.01,
+Lodging,,0.0,
+Luxury Goods,,0.2,-0.0
+Recreational Vehicles,0.0,0.1,0.0
+Restaurants,0.41,0.01,
 Specialty Retail,,0.0,
-Textile Manufacturing,,,-0.25
-Travel Services,1.48,,
-Beverages—Wineries & Distilleries,,-0.93,-0.56
+Textile Manufacturing,,,-0.52
+Travel Services,1.14,,
+Beverages—Wineries & Distilleries,,-0.45,-0.06
 Food Distribution,,,0.0
-Grocery Stores,,-0.03,
-Household & Personal Products,-0.01,,
+Grocery Stores,,0.0,
+Household & Personal Products,0.02,,
 Oil & Gas E&P,,0.0,
-Oil & Gas Equipment & Services,,0.07,2.32
+Oil & Gas Equipment & Services,,0.03,2.4
 Oil & Gas Integrated,,0.0,
-Oil & Gas Refining & Marketing,,0.1,
-Asset Management,0.03,0.0,0.0
-Banks—Regional,0.0,0.0,0.01
-Capital Markets,-0.38,,
-Credit Services,-0.02,-0.18,0.0
+Oil & Gas Refining & Marketing,,0.0,
+Asset Management,-0.14,0.0,0.0
+Banks—Regional,0.0,0.0,0.02
+Capital Markets,-0.59,,
+Credit Services,0.33,0.0,0.0
 Financial Data & Stock Exchanges,0.0,,
 Insurance—Diversified,,,-0.01
-Insurance—Reinsurance,,-0.01,
-Biotechnology,-0.01,-0.06,
-Diagnostics & Research,,0.0,-0.19
+Insurance—Reinsurance,,-0.05,
+Biotechnology,-0.01,0.0,
+Diagnostics & Research,,0.0,-0.08
 Drug Manufacturers—General,0.0,,
 Drug Manufacturers—Specialty & Generic,-0.03,0.0,
-Health Information Services,-0.1,,
-Medical Care Facilities,-0.0,0.0,
+Health Information Services,-0.88,,
+Medical Care Facilities,0.0,0.0,
 Medical Devices,0.0,,0.0
-Medical Distribution,0.0,,-0.5
-Medical Instruments & Supplies,0.07,0.0,0.0
-Aerospace & Defense,-0.21,,0.01
-Airlines,-0.01,0.0,
+Medical Distribution,0.0,,0.19
+Medical Instruments & Supplies,0.02,0.0,0.0
+Aerospace & Defense,0.2,,0.01
+Airlines,-0.05,0.02,
 Airports & Air Services,0.0,,
 Building Products & Equipment,,0.0,0.0
 Business Equipment & Supplies,,,0.0
-Conglomerates,-0.06,0.0,0.0
+Conglomerates,0.07,0.0,0.0
 Consulting Services,,0.0,
-Electrical Equipment & Parts,0.0,0.0,-0.01
-Engineering & Construction,0.0,-0.0,0.05
-Farm & Heavy Construction Machinery,-0.03,,0.22
+Electrical Equipment & Parts,0.0,0.0,-0.04
+Engineering & Construction,0.0,-0.0,0.31
+Farm & Heavy Construction Machinery,-0.05,,-0.32
 Integrated Freight & Logistics,0.0,,
 Marine Shipping,0.0,,
-Metal Fabrication,-0.17,,
+Metal Fabrication,-0.03,,
 Pollution & Treatment Controls,,,0.0
-Railroads,,0.26,
+Railroads,0.51,-0.0,
 Rental & Leasing Services,0.0,,
-Specialty Business Services,,-0.14,
-Specialty Industrial Machinery,-0.84,0.0,0.11
-Staffing & Employment Services,0.0,,
+Specialty Business Services,,-0.12,
+Specialty Industrial Machinery,-0.79,0.0,0.72
+Staffing & Employment Services,0.08,,
 Waste Management,,-0.5,
 REIT—Diversified,,0.0,0.0
-REIT—Office,0.0,,
-REIT—Retail,,0.02,
-Real Estate Services,-0.16,,-0.07
+REIT—Retail,,-0.0,
+Real Estate Services,-0.07,,-0.07
 Real Estate—Development,0.0,,
-Real Estate—Diversified,0.68,0.05,
-Communication Equipment,0.0,0.1,
+Real Estate—Diversified,0.18,0.0,
+Communication Equipment,-0.5,0.0,
 Computer Hardware,,,0.0
 Consumer Electronics,0.0,,
-Electronic Components,0.62,,-0.03
+Electronic Components,0.64,,-0.03
 Electronics & Computer Distribution,,0.0,0.0
-Information Technology Services,-0.0,0.0,0.01
+Information Technology Services,-0.07,0.0,0.01
 Scientific & Technical Instruments,,,0.0
-Semiconductor Equipment & Materials,0.56,-0.78,
-Semiconductors,0.0,0.0,0.0
-Software—Application,-0.06,-0.1,
-Software—Infrastructure,,0.31,0.0
-Solar,1.89,,
-Utilities—Diversified,-0.26,0.0,-0.07
+Semiconductor Equipment & Materials,0.1,-0.58,
+Semiconductors,0.03,0.0,0.0
+Software—Application,-0.07,-0.0,
+Software—Infrastructure,,0.03,0.0
+Solar,2.41,,
+Utilities—Diversified,0.0,0.0,-0.07
 Utilities—Regulated Electric,,,0.0
-Utilities—Regulated Gas,,,-0.36
-Utilities—Renewable,0.0,-0.0,0.16
+Utilities—Regulated Gas,,,-0.47
+Utilities—Renewable,-0.01,-0.0,0.06
