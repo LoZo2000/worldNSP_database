@@ -1,46 +1,47 @@
 ﻿Code,ISO3,Name,Local_long_name,Selectable,NCA_code,NCA_name,Lat,Lng,Character
-AE,ARE,United Arab Emirates,Al Imarat al Arabiyah al Muttahidah,,,,,,
-AR,ARG,Argentina,,,,,,,
-AU,AUS,Australia,,,,,,,
-AT,AUT,Austria,Republik Oesterreich,,,,,,Baroness Bertha Sophie Felicitas von Suttner
-BE,BEL,Belgium,,,,,,,
-BM,BMU,Bermuda,,,,,,,
-BR,BRA,Brazil,,,,,,,
-BG,BGR,Bulgaria,,,,,,,
-CA,CAN,Canada,,,,,,,
-IC,,Canary Islands,,,,,,,
-KY,CYM,Cayman Islands,,,,,,,
-CN,CHN,China,Zhonghua Renmin Gongheguo,,,,,,Yehe Nara Xingzhen [Empress Dowager Cixi]
-CY,CYP,Cyprus,,,,,,,
-CZ,CZE,Czechia,Ceska republika,,,,,,
-DK,DNK,Denmark,,,,,,,
-EU,,European Union,European Union,,ESMA,European Securities and Markets Authority,,,Edith Stein [Saint Teresa of the Cross]
+AR,ARG,Argentina,,,,,-34.67881446,-64.35169057,
+AU,AUS,Australia,,,,,-24.40086055,134.7558623,
+AT,AUT,Austria,,,,,47.5155869,13.90802645,Baroness Bertha Sophie Felicitas von Suttner
+BE,BEL,Belgium,,,,,50.44510562,4.779085747,
+BM,BMU,Bermuda,,,,,32.30826603,-64.73250517,
+BR,BRA,Brazil,,,,,-9.026658044,-55.73840939,
+BG,BGR,Bulgaria,,,,,42.50388895,25.19276157,
+CA,CAN,Canada,,,,,60.01520583,-111.2852836,
+IC,,Canary Islands,,,,,28.38016865,-15.89805984,
+KY,CYM,Cayman Islands,,,,,19.26425143,-81.21042274,
+CN,CHN,China,,,,,34.76923898,103.9372181,Yehe Nara Xingzhen [Empress Dowager Cixi]
+CY,CYP,Cyprus,,,,,35.12011819,33.22728645,
+CZ,CZE,Czechia,,,,,49.41455227,15.24582599,
+DK,DNK,Denmark,,,,,56.5024338,10.63083837,
+EU,,European Union,European Union,,ESMA,European Securities and Markets Authority,51.66290788,24.51755684,Edith Stein [Saint Teresa of the Cross]
 FR,FRA,France,République française,TRUE,AMF,Autorité des Marchés Financiers,46.56057987,2.801546684,Marie Françoise-Thérèse Martin [Saint Thérèse of Lisieux]
 DE,DEU,Germany,Bundesrepublik Deutschland,TRUE,BaFin,Bundesanstalt für Finanzdienstleistungsaufsicht,51.09819342,10.53592157,
-GR,GRC,Greece,,,,,,,Maria Anna Cecilia Sophia Kalogeropoulos [Maria Callas]
-HK,HKG,Hong Kong,,,,,,,
-IN,IND,India,,,,,,,Indira Priyadarshini Nehru-Gandhi
-ID,IDN,Indonesia,,,,,,,
-IE,IRL,Ireland,,,,,,,
+GR,GRC,Greece,,,,,39.35409715,22.09052856,Maria Anna Cecilia Sophia Kalogeropoulos [Maria Callas]
+HK,HKG,Hong Kong,,,,,22.27967299,114.2888227,
+IN,IND,India,,,,,22.16030866,79.47358891,Indira Priyadarshini Nehru-Gandhi
+ID,IDN,Indonesia,,,,,-4.489467971,122.7597112,
+IE,IRL,Ireland,,,,,53.17794118,-8.001735209,
 IT,ITA,Italy,Repubblica Italiana,TRUE,CONSOB,Commissione Nazionale per le Società e la Borsa,42.86263717,12.67014175,Oriana Fallaci
-JP,JPN,Japan,Nippon-koku,,,,,,Yoshiko Kawashima
-JE,JEY,Jersey,,,,,,,
-LU,LUX,Luxembourg,,,,,,,
-MT,MLT,Malta,,,,,,,
-NL,NLD,Netherlands,Koninkrijk der Nederlanden,,,,,,Margaretha Geertruida Zelle [Mata Hari]
-NO,NOR,Norway,,,,,,,Anne-Sofie Østvedt
-PL,POL,Poland,Rzeczpospolita Polska,,,,,,Maria Salomea Skłodowska-Curie
-PT,PRT,Portugal,,,,,,,
-RO,ROU,Romania,,,,,,,Anna Aslanyan
-SG,SGP,Singapore,,,,,,,
-ZA,ZAF,South Africa,,,,,,,
-KR,KOR,South Korea,,,,,,,
-ES,ESP,Spain,Reino de Espana,,,,,,Pilar Primo de Rivera
-SE,SWE,Sweden,,,,,,,Kerstin Anita Marianne Ekberg
-CH,CHE,Switzerland,,,,,,,
-TW,TWN,Taiwan,,,,,,,
-TH,THA,Thailand,,,,,,,
-TU,TUR,Turkiye,Turkey Cumhuriyeti,,,,,,
-AE,ARE,United Arab Emirates,,,,,,,
-GB,GBR,United Kingdom,,,,,,,"Augusta Ada King, Countess of Lovelace"
-US,USA,United States,,,,,,,
+JP,JPN,Japan,,,,,36.48367646,138.1266706,Yoshiko Kawashima
+JE,JEY,Jersey,,,,,49.23045501,-2.106678637,
+LU,LUX,Luxembourg,,,,,49.85939725,5.974819183,
+MT,MLT,Malta,,,,,35.90267119,14.51957768,
+NL,NLD,Netherlands,,,,,52.73678251,6.846827587,Margaretha Geertruida Zelle [Mata Hari]
+NZ,NZL,New Zealand,,,,,-41.69802244,172.9202369,
+NO,NOR,Norway,,,,,61.96348449,9.40281908,Anne-Sofie Østvedt
+PL,POL,Poland,,,,,52.94416156,19.03589512,Maria Salomea Skłodowska-Curie
+PT,PRT,Portugal,,,,,39.76280035,-8.533137469,
+RO,ROU,Romania,,,,,45.7669736,24.98150682,Anna Aslanyan
+SA,SAU,Saudi Arabia,,,,,21.98579296,44.52631629,
+SG,SGP,Singapore,,,,,1.278562829,103.5672284,
+ZA,ZAF,South Africa,,,,,-31.07864363,24.77750204,
+KR,KOR,South Korea,,,,,36.62488023,128.3708115,
+ES,ESP,Spain,,,,,39.62860057,-4.862668749,Pilar Primo de Rivera
+SE,SWE,Sweden,,,,,64.68535183,16.71572356,Kerstin Anita Marianne Ekberg
+CH,CHE,Switzerland,,,,,46.75309372,7.615473583,
+TW,TWN,Taiwan,,,,,23.29956954,120.3640748,
+TH,THA,Thailand,,,,,15.99740778,102.4786026,
+TU,TUR,Turkiye,,,,,38.97563478,35.31309649,
+AE,ARE,United Arab Emirates,,,,,23.70770651,54.88605072,
+GB,GBR,United Kingdom,,,,,54.90958526,-2.117572299,"Augusta Ada King, Countess of Lovelace"
+US,USA,United States,,,,,39.83810432,-100.4949493,
